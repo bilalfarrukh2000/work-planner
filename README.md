@@ -1,10 +1,6 @@
 # work-planner
 
-Using HTML and CSS files, I created a whole new website for my portfolio. I have linked my first project "Coding Refactoring" and have included placeholders for future projects.
-
-I have written a description about myself and added a recent picture. I have added contact methods such as email and GitHub as well. My navigation bar links to corresponding sections of my website.
-
-My website is also responsive to different devices and sizes.
+Using HTML, CSS, and Javascript files, I created a simple calendar application where the user can mark down events everyday. The user will be able to save events each hour in each and everyday, keeping track of their schedule to boost their time management. My application is also responsive to different devices and sizes.
 
 
 
@@ -12,5 +8,5 @@ My website is also responsive to different devices and sizes.
 Deployed URL: https://bilalfarrukh2000.github.io/work-planner/
 GitHub Repo URL: https://github.com/bilalfarrukh2000/work-planner
 
-![Website Screenshot](workplanner.png)
+!(workplanner.png)
 
