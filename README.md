@@ -8,5 +8,5 @@ Using HTML, CSS, and Javascript files, I created a simple calendar application w
 Deployed URL: https://bilalfarrukh2000.github.io/work-planner/
 GitHub Repo URL: https://github.com/bilalfarrukh2000/work-planner
 
-!(workplanner.png)
+![](workplanner.png)
 
